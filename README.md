@@ -41,7 +41,7 @@ At a high level the navigation will have two main states
 ## Get Started
 
 ```
-git clone git@github.com:pt12/NavExercise.git
+git clone git@github.com:PT12/navexercise.git
 cd NavExercise
 npm install
 npm start
