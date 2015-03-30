@@ -1,4 +1,4 @@
-// JavasScript helper methods; on, hasClass, addClass, removeClass, toggleClass, isDescendant (hasChild)
+// JavasScript helper methods; on, hasClass, addClass, removeClass, toggleClass
 
 // Delegated event function - for the ul menu list
 function on(elSelector, eventName, selector, fn) {
