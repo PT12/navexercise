@@ -69,16 +69,7 @@ body {
 }
 
 h1 {
-  position: absolute;
-  top: 25%;
-  left: 17%;
-  right: 25%;
-  -webkit-transform: translate(0%, -25%);
-  transform: translate(0%, -25%);
-  margin: 0;
-  font: 20vmin/1 HUGEAvantGardeBold;
-  letter-spacing: -0.06em;
-  text-align: center;
+  color: #000;
 }
 
 ul {
@@ -245,6 +236,20 @@ a {
     transition: none;
     font-size: 24px;
     line-height: 36px;
+  }
+
+  h1 {
+    position: absolute;
+    color: #fff;
+    top: 25%;
+    left: 17%;
+    right: 25%;
+    -webkit-transform: translate(0%, -25%);
+    transform: translate(0%, -25%);
+    margin: 0;
+    font: 12vmin/1 HUGEAvantGardeBold;
+    letter-spacing: -0.06em;
+    text-align: center;
   }
 
   .header-bar {
