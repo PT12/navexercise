@@ -241,13 +241,13 @@ a {
   h1 {
     position: absolute;
     color: #fff;
-    top: 25%;
-    left: 17%;
-    right: 25%;
+    top: 23%;
+    left: 14%;
+    right: 15%;
     -webkit-transform: translate(0%, -25%);
     transform: translate(0%, -25%);
     margin: 0;
-    font: 12vmin/1 HUGEAvantGardeBold;
+    font: 15vmin/1 HUGEAvantGardeBold;
     letter-spacing: -0.06em;
     text-align: center;
   }
